@@ -42,22 +42,12 @@
 
 ---
 
-### 🖼️ Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Portfolio Website](https://github.com/your-github-username/portfolio) | A responsive portfolio to showcase my work | HTML, CSS, JS |
-| [Landing Page](https://github.com/your-github-username/landing-page) | Sleek, mobile-friendly landing page | HTML, CSS |
-| [To-Do App](https://github.com/your-github-username/todo-app) | A minimalist to-do list app | JavaScript |
-
----
-
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/khaja-munazar-uddin-146a34338" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/your-twitter" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="khxkaa123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
