@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **React.js** and **API integration**
 - 👯 I’m looking to collaborate on **open-source front-end projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, and responsive web design**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [khxjaa1232@gmail.com](mailto:your.email@example.com)
 - ⚡ Fun fact: I can write clean CSS faster than you can say "media queries"
 
 ---
